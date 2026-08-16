@@ -10,11 +10,11 @@ A clean, modular, single-cycle RV32I processor implemented in Verilog for learni
 
 ### Image 1: RV32I instruction format
 
-![Image 1](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/RISC-V_32bit_Instruction_Format.svg/1280px-RISC-V_32bit_Instruction_Format.svg.png)
+![Image 1](https://github.com/sumit3162/Single-Cycle-RV32I-RISC-V-Processor/blob/main/img/1.png)
 
 ### Image 2: RISC-V architecture overview
 
-![Image 2](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/RISC-V_logo.svg/640px-RISC-V_logo.svg.png)
+![Image 2](https://github.com/sumit3162/Single-Cycle-RV32I-RISC-V-Processor/blob/main/img/2.png)
 
 ## Overview
 
